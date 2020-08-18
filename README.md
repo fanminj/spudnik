@@ -1,3 +1,7 @@
+Orbital Project AY19/20
+Orbital is NUS School of Computing’s self-driven programming summer experience. It provides a platform for students to gain hands-on industrial experience for computing technologies related to students’ own interests. Done in pairs of two, students propose, design, execute, implement and market their project to peers and faculty. Peer assessment and critique of others’ projects are key components of the modules’ deliverables.
+
+***
 How to try out our app!
 
 1. clone our repo
